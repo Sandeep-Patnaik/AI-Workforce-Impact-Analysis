@@ -48,7 +48,6 @@ AI-Workforce-Impact-Analysis
 ├── 6.Images
 ├── README.md
 ├── requirements.txt
-└── LICENSE
 ```
 
 ---
